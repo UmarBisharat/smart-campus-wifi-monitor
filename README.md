@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:00BCD4&height=220&section=header&text=Smart%20Campus%20Wi-Fi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Monitoring%20%26%20Network%20Health%20Dashboard&descSize=20&descAlignY=58" alt="Smart Campus Wi-Fi header" />
+# 📶 Smart Campus Wi-Fi
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=1565C0&center=true&vCenter=true&width=700&lines=Run+a+live+Wi-Fi+speed+test+%F0%9F%93%B6;Get+a+health+score+for+every+campus+location+%F0%9F%92%AF;Report+problems+with+proof+%F0%9F%93%9D;Detect+outages+automatically+%E2%9A%A0%EF%B8%8F;Turn+%22the+internet+is+slow%22+into+data+%F0%9F%93%8A" alt="Typing animation" />
-</a>
+### Monitoring & Network Health Dashboard
+
+*Turn "the internet is slow" into data the IT team can act on.*
 
 <br/>
 
@@ -13,7 +13,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Cloud_Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
-![Hackathon](https://img.shields.io/badge/Hackathon-Team_Zero-success?style=for-the-badge)
+![Team Zero](https://img.shields.io/badge/Hackathon-Team_Zero-success?style=for-the-badge)
 
 </div>
 
@@ -238,6 +238,5 @@ Valid roles: `student`, `it_staff`, `manager`, `admin` (lowercase).
 
 ⭐ If you like this project, give it a star!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,100:1565C0&height=120&section=footer" alt="footer" />
 
 </div>
